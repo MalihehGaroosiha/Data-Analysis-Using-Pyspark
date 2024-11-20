@@ -23,6 +23,5 @@ We will use **Google Colab** as the development environment. Google Colab is ide
 4. **Visualization**:
    - Use **matplotlib** to visualize the query results.
 
-## Libraries Required
-```bash
-pip install pyspark matplotlib
+## Acknowledgment
+This project is inspired by the "Data Analysis Using PySpark" course on Coursera, taught by Ahmad Varasteh. I have implemented the project based on the lessons and added my own enhancements and explanations.
